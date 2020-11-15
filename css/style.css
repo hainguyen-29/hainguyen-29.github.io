@@ -1,0 +1,71 @@
+*{
+	font-family: cursive;
+}
+a:hover{
+	text-decoration: none;
+
+}
+.header-menu a:hover{
+	color: #00F0FF !important;
+}
+.header-top a{
+	margin-left: 15px;
+	color: white;
+	font-size: 14px
+}
+.header-top i{
+	font-size: 14px;
+}
+.item-services{
+	padding-top: 50px
+}
+.box-title{
+	margin-top: 10px
+}
+.services-description{
+	font-size: 12px;
+	padding-bottom: 40px
+}
+.price-left{
+	margin-left: 25px
+}
+.price-right{
+	margin-right: 25px
+}
+.list-category>ul>li>a:hover{
+	color: #00F0FF !important;
+}
+.section-4{
+	margin-top: 50px;
+	background-color: #ffffff;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	background-size: cover;
+	position: relative;
+	color: white;
+	text-align: center;
+}
+.section-4>.content-section-4{
+	position: absolute;
+	top: 30%;
+	right: 5%;
+	transform: translate(-10%, -10%);
+}
+.section-4>.content-section-4>.text-section{
+	margin: 25px 0px;
+}
+.category-product{
+	padding-bottom: 120px;
+}
+.category-product .category-product-all .cate-left, .cate-right{
+	font-size: 18px;
+	opacity: 0.9;
+}
+.category-product .category-product-all .cate-right{
+	opacity: 0.4;	
+}
+.category-product .category-product-all .one-cate{
+	padding-left: 5px;
+	padding-right: 5px
+}
