@@ -69,3 +69,38 @@ a:hover{
 	padding-left: 5px;
 	padding-right: 5px
 }
+.footer{
+	margin-top: 20px;
+	background-color:#111111;
+}
+.footer h6{
+	color: lavender;
+}
+.footer .widget{
+	padding-top: 50px;
+}
+.footer .widget .text-dark{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 15px;
+}
+.footer .widget .text-widget{
+	margin-top: -20px;;
+}
+.footer .widget .text-widget1{
+	margin-top: -5px;
+}
+.footer .widget .col-lg-3 .text-img-widget{
+	padding-top: 200px;
+}
+.footer .widget .social-icons{
+	margin-left: 20px;
+}
+.coppyright{
+	background-color: rgba(0,0,0,0.3);
+	background-color: black;
+}
+.coppyright .coppyleft{
+	margin-top: 20px;
+	color:darkgray;
+	font-size: 14px;
+}
